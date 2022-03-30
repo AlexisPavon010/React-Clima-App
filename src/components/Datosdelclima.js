@@ -29,6 +29,10 @@ export default function Datosdelclima() {
                     image = Rain
                     main = 'Soleado'
                     break;
+                    case 'Drizzle':
+                    image = Rain
+                    main = 'Llovizna'
+                    break;
                 case 'Clear':
                     image = Clear
                     main = 'Despejado'
