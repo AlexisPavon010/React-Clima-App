@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/React-Clima-App/static/css/main.380644ee.chunk.css",
-    "main.js": "/React-Clima-App/static/js/main.3bdd6702.chunk.js",
-    "main.js.map": "/React-Clima-App/static/js/main.3bdd6702.chunk.js.map",
+    "main.js": "/React-Clima-App/static/js/main.a1dfb254.chunk.js",
+    "main.js.map": "/React-Clima-App/static/js/main.a1dfb254.chunk.js.map",
     "runtime-main.js": "/React-Clima-App/static/js/runtime-main.9eebd0a0.js",
     "runtime-main.js.map": "/React-Clima-App/static/js/runtime-main.9eebd0a0.js.map",
     "static/js/2.d739650b.chunk.js": "/React-Clima-App/static/js/2.d739650b.chunk.js",
     "static/js/2.d739650b.chunk.js.map": "/React-Clima-App/static/js/2.d739650b.chunk.js.map",
     "index.html": "/React-Clima-App/index.html",
     "static/css/main.380644ee.chunk.css.map": "/React-Clima-App/static/css/main.380644ee.chunk.css.map",
-    "static/js/2.d739650b.chunk.js.LICENSE.txt": "/React-Clima-App/static/js/2.d739650b.chunk.js.LICENSE.txt"
+    "static/js/2.d739650b.chunk.js.LICENSE.txt": "/React-Clima-App/static/js/2.d739650b.chunk.js.LICENSE.txt",
+    "static/media/cloud-strom-weather-forecast.8588d92a.gif": "/React-Clima-App/static/media/cloud-strom-weather-forecast.8588d92a.gif",
+    "static/media/sunny-weather-forecast.c58b11df.gif": "/React-Clima-App/static/media/sunny-weather-forecast.c58b11df.gif",
+    "static/media/sunny-weather.415df8b1.gif": "/React-Clima-App/static/media/sunny-weather.415df8b1.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.9eebd0a0.js",
     "static/js/2.d739650b.chunk.js",
     "static/css/main.380644ee.chunk.css",
-    "static/js/main.3bdd6702.chunk.js"
+    "static/js/main.a1dfb254.chunk.js"
   ]
 }
