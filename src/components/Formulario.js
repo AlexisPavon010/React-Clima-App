@@ -21,7 +21,7 @@ export default function Formulario(props) {
 
 
     return (
-        <div className="col-lg-8 mt-5 mx-auto">
+        <div className="col-lg-8 mt-3 mx-auto">
             <div className="card card-body">
                 <h1 className="text-center">App Clima</h1>
                 <form onSubmit={handleSubmit}>
@@ -30,9 +30,6 @@ export default function Formulario(props) {
                     </div>
                     <button className="btn btn-success btn-block">Buscar</button>
                 </form>
-            </div>
-            <div id="root" className="mt-4">
-                
             </div>
         </div>
     )

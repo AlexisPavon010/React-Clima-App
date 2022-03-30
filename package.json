@@ -2,7 +2,7 @@
   "name": "react-clima-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://github.com/AlexisPavon010/React-Clima-App",
+  "homepage": "https://alexispavon010.github.io/React-Clima-App/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeployd": "npm run build",
-    "deployd":"gh-pages -d build",
+    "deployd": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
